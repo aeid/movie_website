@@ -1,5 +1,6 @@
 import webbrowser
 
+#creates movie class object. Includes method to run movie trailer. 
 class Movie():
 	"""docstring for Movie"""
 	def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
